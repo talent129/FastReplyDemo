@@ -32,6 +32,7 @@
 		CB5C0B681F7C10F3009AC885 /* Model.m in Sources */ = {isa = PBXBuildFile; fileRef = CB5C0B671F7C10F3009AC885 /* Model.m */; };
 		CB5C0B6A1F7C130C009AC885 /* ModelList.plist in Resources */ = {isa = PBXBuildFile; fileRef = CB5C0B691F7C130C009AC885 /* ModelList.plist */; };
 		CBAD28D91F7C25DC009887E8 /* ReplyDetailController.m in Sources */ = {isa = PBXBuildFile; fileRef = CBAD28D81F7C25DC009887E8 /* ReplyDetailController.m */; };
+		CBFABAC71F97204B00BDA91E /* 演示.gif in Resources */ = {isa = PBXBuildFile; fileRef = CBFABAC61F97204B00BDA91E /* 演示.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -87,6 +88,7 @@
 		CB5C0B691F7C130C009AC885 /* ModelList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = ModelList.plist; sourceTree = "<group>"; };
 		CBAD28D71F7C25DC009887E8 /* ReplyDetailController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ReplyDetailController.h; sourceTree = "<group>"; };
 		CBAD28D81F7C25DC009887E8 /* ReplyDetailController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ReplyDetailController.m; sourceTree = "<group>"; };
+		CBFABAC61F97204B00BDA91E /* 演示.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "演示.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -135,6 +137,7 @@
 		CB5C0AA61F7B91EA009AC885 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				CBFABAC41F97204B00BDA91E /* 邮件快速回复模板 */,
 				CB5C0B691F7C130C009AC885 /* ModelList.plist */,
 				CB5C0AB21F7B91EA009AC885 /* Assets.xcassets */,
 				CB5C0AAF1F7B91EA009AC885 /* Main.storyboard */,
@@ -230,6 +233,22 @@
 			path = View;
 			sourceTree = "<group>";
 		};
+		CBFABAC41F97204B00BDA91E /* 邮件快速回复模板 */ = {
+			isa = PBXGroup;
+			children = (
+				CBFABAC51F97204B00BDA91E /* ProjectDemo */,
+				CBFABAC61F97204B00BDA91E /* 演示.gif */,
+			);
+			path = "邮件快速回复模板";
+			sourceTree = "<group>";
+		};
+		CBFABAC51F97204B00BDA91E /* ProjectDemo */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ProjectDemo;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -293,6 +312,7 @@
 				CB5C0AB61F7B91EA009AC885 /* LaunchScreen.storyboard in Resources */,
 				CB5C0AB31F7B91EA009AC885 /* Assets.xcassets in Resources */,
 				CB5C0B6A1F7C130C009AC885 /* ModelList.plist in Resources */,
+				CBFABAC71F97204B00BDA91E /* 演示.gif in Resources */,
 				CB5C0AB11F7B91EA009AC885 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
