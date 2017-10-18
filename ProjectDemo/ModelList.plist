@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>icon</key>
+		<string>email-agree</string>
+		<key>name</key>
+		<string>同意</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>email-zan</string>
+		<key>name</key>
+		<string>赞</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>email-call</string>
+		<key>name</key>
+		<string>致电给我</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>email-good</string>
+		<key>name</key>
+		<string>不错</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>email-like</string>
+		<key>name</key>
+		<string>喜欢</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>email-thanks</string>
+		<key>name</key>
+		<string>谢谢</string>
+	</dict>
+	<dict>
+		<key>icon</key>
+		<string>email-zanner</string>
+		<key>name</key>
+		<string>很赞</string>
+	</dict>
+</array>
+</plist>
